@@ -1,3 +1,50 @@
+# Bài làm — Nguyễn Đăng Doanh (2A202603597)
+
+Pipeline ingest *Principles of Finance* (OpenStax, ch.1–3) vào PostgreSQL + pgvector và so sánh 3 chiến lược A/B/C. Báo cáo: [report/individual/2A202603597_NguyenDangDoanh.md](report/individual/2A202603597_NguyenDangDoanh.md).
+
+## Setup 
+
+```powershell
+cd starter
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt sentence-transformers==6.3.0
+Copy-Item .env.example .env
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py
+```
+
+Model embedding `sentence-transformers/all-MiniLM-L6-v2` tự tải về ở lần chạy đầu; không cần API key.
+
+## Chạy
+
+```powershell
+python scripts/inventory_pages.py data/100pages.pdf   
+python scripts/validate_benchmark.py                  
+python -m src.run ingest                             
+python -m src.run check-reingest                      
+python -m src.run evaluate --split dev                
+python -m src.run evaluate --split test              
+python -m src.run export-audit                      
+python -m src.run summarize-audit                   
+```
+
+## Cấu trúc
+
+| Đường dẫn | Nội dung |
+|---|---|
+| `data/manifest.csv`, `data/page_inventory.csv` | Nguồn, giấy phép, quy tắc đếm trang, phân loại từng trang |
+| `starter/data/100pages.pdf` | Corpus (CC BY 4.0) |
+| `benchmark/` | 20 câu hỏi (15 dev / 5 test), gold evidence, cách chia, tiêu chí chọn |
+| `starter/src/` | Code pipeline (`config`, `ingestion`, `chunking`, `embeddings`, `store`, `evaluation`, `experiments`, `run`) |
+| `starter/scripts/` | Kiểm kê trang, in text đã chuẩn hóa, kiểm chứng benchmark |
+| `artifacts/experiment_log.csv` | Tham số, giả thuyết và kết quả A/B/C |
+| `starter/results/` | Thống kê ingest, log, kiểm tra nạp lại, trace, chỉ số, nhãn chấm |
+
+---
+
+
+
 # Day 06 · Data Ingestion Engineering
 
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**

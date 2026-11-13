@@ -1,14 +1,3 @@
-"""Page inventory for the corpus: classify every physical PDF page and decide whether it counts.
-
-Usage (from starter/):  python scripts/inventory_pages.py data/100pages.pdf
-Output: ../data/page_inventory.csv  (one row per physical page)
-
-Counting rule (decided before building the benchmark):
-  counted = explanatory content pages of a section, including Summary and Key Terms.
-  excluded = front matter (cover, TOC, licensing, authors), chapter overview (mini TOC),
-             exercise sections (Multiple Choice, Review Questions, Problems, Video Activity,
-             CFA Institute), and pages whose body is only footnotes/license (< MIN_BODY chars).
-"""
 import csv
 import re
 import sys
