@@ -1,0 +1,101 @@
+pdf_page,chapter,section,section_page,libretexts_page_id,section_title,page_type,counted,reason,chars_normalized,replacement_chars
+1,,,,,,front_matter,False,cover/TOC/licensing/authors,31,0
+2,,,,,,front_matter,False,cover/TOC/licensing/authors,1326,0
+3,,,,,,front_matter,False,cover/TOC/licensing/authors,1123,0
+4,,,,,,front_matter,False,cover/TOC/licensing/authors,1246,0
+5,,,,,,front_matter,False,cover/TOC/licensing/authors,1346,0
+6,,,,,,front_matter,False,cover/TOC/licensing/authors,1329,0
+7,,,,,,front_matter,False,cover/TOC/licensing/authors,499,0
+8,,,,,,front_matter,False,cover/TOC/licensing/authors,151,0
+9,,,,,,front_matter,False,cover/TOC/licensing/authors,457,0
+10,1,,,,,chapter_overview,False,chapter table of contents,648,0
+11,1,1.1,1,94519,Why It Matters,content,True,,2749,0
+12,1,1.1,2,94519,Why It Matters,notes_only,False,footnotes/license only (0 body chars),383,0
+13,1,1.2,1,94520,What Is Finance?,content,True,,2642,0
+14,1,1.2,2,94520,What Is Finance?,content,True,,3663,0
+15,1,1.2,3,94520,What Is Finance?,content,True,,5056,0
+16,1,1.2,4,94520,What Is Finance?,content,True,,4892,0
+17,1,1.2,5,94520,What Is Finance?,content,True,,3385,0
+18,1,1.2,6,94520,What Is Finance?,notes_only,False,footnotes/license only (0 body chars),545,0
+19,1,1.3,1,94521,The Role of Finance in an Organization,content,True,,4379,0
+20,1,1.3,2,94521,The Role of Finance in an Organization,content,True,,2898,0
+21,1,1.3,3,94521,The Role of Finance in an Organization,notes_only,False,footnotes/license only (280 body chars),569,0
+22,1,1.4,1,94522,Importance of Data and Technology,content,True,,3992,0
+23,1,1.4,2,94522,Importance of Data and Technology,content,True,,4686,0
+24,1,1.4,3,94522,Importance of Data and Technology,notes_only,False,footnotes/license only (240 body chars),688,0
+25,1,1.5,1,94523,Careers in Finance,content,True,,3761,0
+26,1,1.5,2,94523,Careers in Finance,content,True,,1419,0
+27,1,1.5,3,94523,Careers in Finance,content,True,,2037,0
+28,1,1.6,1,94524,Markets and Participants,content,True,,3024,0
+29,1,1.6,2,94524,Markets and Participants,content,True,,3098,0
+30,1,1.6,3,94524,Markets and Participants,content,True,,2004,0
+31,1,1.7,1,94525,Microeconomic and Macroeconomic Matters,content,True,,3899,0
+32,1,1.7,2,94525,Microeconomic and Macroeconomic Matters,content,True,,4565,0
+33,1,1.7,3,94525,Microeconomic and Macroeconomic Matters,notes_only,False,footnotes/license only (0 body chars),461,0
+34,1,1.8,1,94526,Financial Instruments,content,True,,4477,0
+35,1,1.8,2,94526,Financial Instruments,content,True,,5196,0
+36,1,1.8,3,94526,Financial Instruments,notes_only,False,footnotes/license only (0 body chars),628,0
+37,1,1.9,1,94527,Concepts of Time and Value,content,True,,2881,0
+38,1,1.9,2,94527,Concepts of Time and Value,content,True,,4254,0
+39,1,1.9,3,94527,Concepts of Time and Value,content,True,,875,0
+40,1,1.10,1,94528,Summary,summary,True,,3896,0
+41,1,1.11,1,94529,Key T erms,key_terms,True,,2243,0
+42,1,1.11,2,94529,Key T erms,key_terms,True,,2502,0
+43,1,1.11,3,94529,Key T erms,key_terms,True,,771,0
+44,1,1.12,1,94530,Multiple Choice,exercise,False,exercise section: Multiple Choice,2568,0
+45,1,1.12,2,94530,Multiple Choice,exercise,False,exercise section: Multiple Choice,2013,0
+46,1,1.12,3,94530,Multiple Choice,exercise,False,exercise section: Multiple Choice,1215,0
+47,1,1.13,1,94531,Review Questions,exercise,False,exercise section: Review Questions,1570,0
+48,1,1.14,1,94532,Video Activity,exercise,False,exercise section: Video Activity,878,0
+49,1,1.14,2,94532,Video Activity,exercise,False,exercise section: Video Activity,1353,0
+50,2,,,,,chapter_overview,False,chapter table of contents,727,0
+51,2,2.1,1,94552,Why It Matters,content,True,,3166,0
+52,2,2.2,1,94553,Business Structures,content,True,,3758,0
+53,2,2.2,2,94553,Business Structures,content,True,,5128,0
+54,2,2.2,3,94553,Business Structures,content,True,,4374,0
+55,2,2.2,4,94553,Business Structures,content,True,,3413,0
+56,2,2.3,1,94554,Relationship between Shareholders and Company Management,content,True,,4138,0
+57,2,2.3,2,94554,Relationship between Shareholders and Company Management,content,True,,1140,0
+58,2,2.4,1,94555,Role of the Board of Directors,content,True,,2138,0
+59,2,2.4,2,94555,Role of the Board of Directors,content,True,,2529,0
+60,2,2.4,3,94555,Role of the Board of Directors,content,True,,4586,0
+61,2,2.4,4,94555,Role of the Board of Directors,content,True,,4212,0
+62,2,2.4,5,94555,Role of the Board of Directors,notes_only,False,footnotes/license only (0 body chars),280,0
+63,2,2.5,1,94556,Agency Issues- Shareholders and Corporate Boards,content,True,,3466,0
+64,2,2.5,2,94556,Agency Issues- Shareholders and Corporate Boards,content,True,,4330,0
+65,2,2.5,3,94556,Agency Issues- Shareholders and Corporate Boards,content,True,,4587,0
+66,2,2.5,4,94556,Agency Issues- Shareholders and Corporate Boards,content,True,,2506,0
+67,2,2.6,1,94557,"Interacting with Investors, Intermediaries, and Other Market Participants",content,True,,3927,0
+68,2,2.6,2,94557,"Interacting with Investors, Intermediaries, and Other Market Participants",content,True,,3142,0
+69,2,2.6,3,94557,"Interacting with Investors, Intermediaries, and Other Market Participants",content,True,,2261,0
+70,2,2.7,1,94558,Companies in Domestic and Global Markets,content,True,,3722,0
+71,2,2.7,2,94558,Companies in Domestic and Global Markets,content,True,,1159,0
+72,2,2.8,1,94559,Summary,summary,True,,2694,0
+73,2,2.9,1,94560,Key T erms,key_terms,True,,2378,0
+74,2,2.9,2,94560,Key T erms,key_terms,True,,2714,0
+75,2,2.9,3,94560,Key T erms,key_terms,True,,2589,0
+76,2,2.10,1,94561,CFA Institute,exercise,False,exercise section: CFA Institute,435,0
+77,2,2.11,1,94562,Multiple Choice,exercise,False,exercise section: Multiple Choice,2124,0
+78,2,2.11,2,94562,Multiple Choice,exercise,False,exercise section: Multiple Choice,2063,0
+79,2,2.11,3,94562,Multiple Choice,exercise,False,exercise section: Multiple Choice,2142,0
+80,2,2.12,1,94563,Review Questions,exercise,False,exercise section: Review Questions,1374,0
+81,2,2.13,1,94564,Video Activity,exercise,False,exercise section: Video Activity,1380,0
+82,2,2.13,2,94564,Video Activity,exercise,False,exercise section: Video Activity,710,0
+83,3,,,,,chapter_overview,False,chapter table of contents,627,0
+84,3,3.1,1,94566,Why It Matters,content,True,,2274,0
+85,3,3.2,1,94567,Microeconomics,content,True,,2157,0
+86,3,3.2,2,94567,Microeconomics,content,True,,2287,0
+87,3,3.2,3,94567,Microeconomics,content,True,,1369,0
+88,3,3.2,4,94567,Microeconomics,content,True,,1467,0
+89,3,3.2,5,94567,Microeconomics,content,True,,2125,0
+90,3,3.2,6,94567,Microeconomics,content,True,,633,0
+91,3,3.2,7,94567,Microeconomics,content,True,,944,0
+92,3,3.2,8,94567,Microeconomics,content,True,,1240,0
+93,3,3.2,9,94567,Microeconomics,content,True,,1122,0
+94,3,3.2,10,94567,Microeconomics,content,True,,1018,0
+95,3,3.3,1,94568,Macroeconomics,content,True,,4317,0
+96,3,3.3,2,94568,Macroeconomics,content,True,,3605,0
+97,3,3.3,3,94568,Macroeconomics,content,True,,2993,0
+98,3,3.3,4,94568,Macroeconomics,content,True,,5040,0
+99,3,3.3,5,94568,Macroeconomics,content,True,,2563,0
+100,3,3.4,1,94569,Business Cycles and Economic Activity,content,True,,1236,0
