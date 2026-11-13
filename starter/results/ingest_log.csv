@@ -1,0 +1,118 @@
+page,level,event,detail
+1,info,skipped,cover/TOC/licensing/authors
+2,info,skipped,cover/TOC/licensing/authors
+3,info,skipped,cover/TOC/licensing/authors
+4,info,skipped,cover/TOC/licensing/authors
+5,info,skipped,cover/TOC/licensing/authors
+6,info,skipped,cover/TOC/licensing/authors
+7,info,skipped,cover/TOC/licensing/authors
+8,info,skipped,cover/TOC/licensing/authors
+9,info,skipped,cover/TOC/licensing/authors
+10,info,skipped,chapter table of contents
+11,info,boilerplate_removed,header
+12,info,skipped,footnotes/license only (0 body chars)
+13,warning,icon_glyph_removed,1x U+F5DC
+13,info,boilerplate_removed,header
+14,info,boilerplate_removed,header
+15,info,boilerplate_removed,header
+16,info,boilerplate_removed,header
+17,info,boilerplate_removed,header
+18,info,skipped,footnotes/license only (0 body chars)
+19,warning,icon_glyph_removed,1x U+F5DC
+19,info,boilerplate_removed,header
+20,info,boilerplate_removed,header
+21,info,skipped,footnotes/license only (280 body chars)
+22,warning,icon_glyph_removed,1x U+F5DC
+22,info,boilerplate_removed,header
+23,info,boilerplate_removed,header
+24,info,skipped,footnotes/license only (240 body chars)
+25,warning,icon_glyph_removed,1x U+F5DC
+25,info,boilerplate_removed,header
+26,info,boilerplate_removed,header
+27,info,boilerplate_removed,header+footnotes
+28,warning,icon_glyph_removed,1x U+F5DC
+28,info,boilerplate_removed,header
+29,info,boilerplate_removed,header
+30,info,boilerplate_removed,header+footnotes
+31,warning,icon_glyph_removed,1x U+F5DC
+31,info,boilerplate_removed,header
+32,info,boilerplate_removed,header
+33,info,skipped,footnotes/license only (0 body chars)
+34,warning,icon_glyph_removed,1x U+F5DC
+34,info,boilerplate_removed,header
+35,info,boilerplate_removed,header
+36,info,skipped,footnotes/license only (0 body chars)
+37,warning,icon_glyph_removed,1x U+F5DC
+37,info,boilerplate_removed,header
+38,info,boilerplate_removed,header
+39,info,boilerplate_removed,header+license
+40,info,boilerplate_removed,header+license
+41,info,boilerplate_removed,header
+42,info,boilerplate_removed,header
+43,info,boilerplate_removed,header+license
+44,info,skipped,exercise section: Multiple Choice
+45,info,skipped,exercise section: Multiple Choice
+46,info,skipped,exercise section: Multiple Choice
+47,info,skipped,exercise section: Review Questions
+48,info,skipped,exercise section: Video Activity
+49,info,skipped,exercise section: Video Activity
+50,info,skipped,chapter table of contents
+51,info,boilerplate_removed,header+license
+52,warning,icon_glyph_removed,1x U+F5DC
+52,info,boilerplate_removed,header
+53,info,boilerplate_removed,header
+54,info,boilerplate_removed,header
+55,info,boilerplate_removed,header+footnotes
+56,warning,icon_glyph_removed,1x U+F5DC
+56,info,boilerplate_removed,header
+57,info,boilerplate_removed,header+license
+58,warning,icon_glyph_removed,1x U+F5DC
+58,info,boilerplate_removed,header
+59,info,boilerplate_removed,header
+60,info,boilerplate_removed,header
+61,info,boilerplate_removed,header+footnotes
+62,info,skipped,footnotes/license only (0 body chars)
+63,warning,icon_glyph_removed,1x U+F5DC
+63,info,boilerplate_removed,header
+64,info,boilerplate_removed,header
+65,info,boilerplate_removed,header
+66,info,boilerplate_removed,header+footnotes
+67,warning,icon_glyph_removed,1x U+F5DC
+67,info,boilerplate_removed,header
+68,info,boilerplate_removed,header
+69,info,boilerplate_removed,header+footnotes
+70,warning,icon_glyph_removed,1x U+F5DC
+70,info,boilerplate_removed,header
+71,info,boilerplate_removed,header+footnotes
+72,info,boilerplate_removed,header+license
+73,info,boilerplate_removed,header
+74,info,boilerplate_removed,header
+75,info,boilerplate_removed,header+license
+76,info,skipped,exercise section: CFA Institute
+77,info,skipped,exercise section: Multiple Choice
+78,info,skipped,exercise section: Multiple Choice
+79,info,skipped,exercise section: Multiple Choice
+80,info,skipped,exercise section: Review Questions
+81,info,skipped,exercise section: Video Activity
+82,info,skipped,exercise section: Video Activity
+83,info,skipped,chapter table of contents
+84,info,boilerplate_removed,header+footnotes
+85,warning,icon_glyph_removed,1x U+F5DC
+85,info,boilerplate_removed,header
+86,info,boilerplate_removed,header
+87,info,boilerplate_removed,header
+88,info,boilerplate_removed,header
+89,info,boilerplate_removed,header
+90,info,boilerplate_removed,header
+91,info,boilerplate_removed,header
+92,info,boilerplate_removed,header
+93,info,boilerplate_removed,header
+94,info,boilerplate_removed,header+license
+95,warning,icon_glyph_removed,1x U+F5DC
+95,info,boilerplate_removed,header
+96,info,boilerplate_removed,header
+97,info,boilerplate_removed,header
+98,info,boilerplate_removed,header
+99,info,boilerplate_removed,header+footnotes
+100,warning,icon_glyph_removed,1x U+F5DC
+100,info,boilerplate_removed,header

@@ -1,0 +1,4 @@
+﻿strategy,split,n,hit_at_1,hit_at_1_pct,evidence_hit_at_3,evidence_hit_at_3_pct,gold_page_at_3,page_only_misses,filter_questions,filter_compliant,missed_ids
+A,dev,15,4/15,26.7,6/15,40.0,14/15,8,2,2/2,q02 q03 q04 q05 q07 q10 q11 q14 q15
+B,dev,15,11/15,73.3,12/15,80.0,14/15,2,2,2/2,q02 q03 q15
+C,dev,15,11/15,73.3,12/15,80.0,14/15,2,2,2/2,q02 q03 q15

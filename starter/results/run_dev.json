@@ -1,0 +1,31 @@
+{
+  "run_at": "2026-11-13T11:02:18+00:00",
+  "split": "dev",
+  "questions": 15,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "query_embed_seconds": 0.16,
+  "top_k": 3,
+  "strategies": {
+    "A": {
+      "index": "A",
+      "chunker": "fixed",
+      "size": 500,
+      "overlap": 50,
+      "use_filter": false
+    },
+    "B": {
+      "index": "B",
+      "chunker": "paragraph",
+      "max_size": 800,
+      "use_filter": false
+    },
+    "C": {
+      "index": "B",
+      "chunker": "paragraph",
+      "max_size": 800,
+      "use_filter": true
+    }
+  },
+  "cost_usd": 0.0
+}

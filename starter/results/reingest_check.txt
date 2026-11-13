@@ -1,0 +1,6 @@
+Re-ingest check at 2026-11-13T10:46:51+00:00
+before: {"A": {"rows": 458, "distinct_ids": 458, "duplicate_positions": 0}, "B": {"rows": 341, "distinct_ids": 341, "duplicate_positions": 0}}
+after:  {"A": {"rows": 458, "distinct_ids": 458, "duplicate_positions": 0}, "B": {"rows": 341, "distinct_ids": 341, "duplicate_positions": 0}}
+[A] chunk_count=458 embedded_this_run=0 written=0 unchanged=458 deleted=0
+[B] chunk_count=341 embedded_this_run=0 written=0 unchanged=341 deleted=0
+RESULT: OK - same row counts, no duplicate chunks, nothing re-embedded

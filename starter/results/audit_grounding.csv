@@ -1,0 +1,241 @@
+﻿question_id,strategy,question,filter_applied,expected_answer,gold_page,evidence_quote,auto_evidence_hit_at_3,top1,top2,top3,grounding_0_2,reason
+q16,A,"If market makers do not rely on the performance of the securities they hold, how do they earn money?",,Dealers earn money from trading volume and the spread between their bid and ask prices.,"[29, 41]",dealers mak e money from the volume of trading and the spread b etween their bid price (what they are willing to pay for a security) and the ir ask price (the price at which they are willing to s ell a security).,False,"[p28 pof-ch1-3:p028:fixed500-50:c01] , many market locales trade both new and used securities. For example, the stock markets trade equit y securities daily, and
+most of the trading takes place among individual and institutional investors who own shares in publicly t raded companies. Trading
+a share of Amazon, Facebook, or Nike stock has little i mpact and no direct cash flow to the underlying firm. However, the
+information provided by such transactions is valuab le, as it is a costly and public real-time statement by investors of ","[p29 pof-ch1-3:p029:fixed500-50:c00] Figure 1.7: Broker and Dealer Markets
+Dealers
+Financial dealers own the securities that they buy or sell. When a dealer engages in a financial transact ion, they are trading from
+their own portfolio. Dealers do not participate in the market in the same manner as an individual or insti tutional investor, who is
+simply trying to make their investments worth as muc h as possible. Instead, dealers attempt to “make market s,” meaning they are
+willing and able to buy and sell at the current bid and as","[p40 pof-ch1-3:p040:fixed500-50:c04] te, to retail, to manufacturing, to education.
+1.5 Markets and Participants
+Financial markets are where buyers and sellers of fin ancial securities come together to trade. The trading of securities allows
+markets to value assets and signal value as new inform ation arrives. Brokers operate to bring buyers and sel lers together and
+receive commissions. Dealers trade from their own por tfolios and are often willing to make markets for spe cific securities by
+agreeing to buy or sell at the current ",1,"Top-2 (p29) và top-3 (p40) nói dealer 'make markets' và mua bán ở giá bid/ask, nhưng câu nói dealer kiếm tiền từ khối lượng giao dịch và chênh lệch bid-ask bị cắt sang chunk sau (không được lấy); thiếu ý chính."
+q17,A,When can a company's pursuit of risky projects create a conflict involving its debt holders?,,"When the company takes on risky investments to drive profitability, the higher risk can threaten its ability to repay its debts, leading to possible default.",[64],"If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk levels could threaten the company’s ability to service (repay) their debts, leading to possible default.",True,"[p64 pof-ch1-3:p064:fixed500-50:c01] management can lead to significant agency problems.
+Investors versus Creditors
+If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk
+levels could threaten the company’s ability to service (repay) their debts, leading to possible default.
+This additional risk could also result in creditors ta king steps to devalue such debts, which in most cases refers to company bond
+issues. In the end, if these riskier projects end","[p64 pof-ch1-3:p064:fixed500-50:c02] 
+issues. In the end, if these riskier projects end up failing and the company loses money, investors (bon dholders) may also
+experience financial risk as bonds go into default o r otherwise lose market value. This then becomes a pote ntial agency problem
+between bondholders (investors) and creditors.
+Stockholders versus Other Stakeholders
+Situations may arise in which stockholders of a firm find themselves in conflicts of interest with other stakeholders of the company.
+For example, employees of","[p64 pof-ch1-3:p064:fixed500-50:c00] An example of an agency problem between management an d shareholders occurred at WorldCom in 2001, when th eir CEO used
+company assets to underwrite several personal loans. As a result of these inappropriate actions, the company took on additional
+debt that negatively impacted WorldCom’s capital structure, liquidity, and ultimately its stock price. From this example, we can see
+how individual greed on the part of agents, executives, or corporate management can lead to significant agency problems",2,"Top-1 (p64) chứa trọn câu điều kiện: dự án rủi ro đe doạ khả năng trả nợ, có thể dẫn tới vỡ nợ."
+q18,A,"In the economic foundations chapter, what does inflation mean for the purchasing power of a currency?",,The purchasing power of currency falls; a $100 bill buys less than before.,[95],"Inflation mean s that the purchasing power of currency falls. Whenever there is inflation, a $100 bill will not purchase as much as it did before.",False,"[p95 pof-ch1-3:p095:fixed500-50:c03] e tuition, have increased. Also, you were paid a higher hourly wage at your first
+job than your parents and grandparents were paid; the price of labor has risen.
+When economists talk about inflation, they are discus sing this phenomenon of the price of many things risin g. Instead of tracking
+the price of one particular item, they consider the p rice of purchasing a basket of goods. Inflation mean s that the purchasing power
+of currency falls. Whenever there is inflation, a $100 bill will not pu","[p31 pof-ch1-3:p031:fixed500-50:c06] nternat ional economic conditions. Inflation is an importan t macroeconomic variable
+that influences prices. Every quarter, financial info rmation hubs, such as the Wall Street Journal (WSJ), and government agencies
+and regulatory bodies, such as the Treasury Departmen t and the Federal Reserve, release estimates about exp ected and current
+inflation. This information informs policy makers ho w to adjust the money supply to meet target objective s. Financial forecasters
+pay close attention to cu","[p95 pof-ch1-3:p095:fixed500-50:c05] in an
+earlier period. Alternatively, you can calculate the current value of dollar amounts from years ago.
+How Is Inflation Measured
+Each month, the US Bureau of Labor Statistics (BLS) coll ects price data and publishes measures of inflation . The measure most
+commonly cited is the consumer price index (CPI). The CPI is based on the cost of buying a fixed basket o f goods and services
+comprising items a typical urban family of four mig ht purchase. The BLS divides these purchases into eight majo",2,"Top-1 (p95) chứa 'Inflation means that the purchasing power of currency falls', đủ để trả lời; câu ví dụ $100 bị cắt nên chấm tự động là trượt. Top-2 thuộc chương 1 (vi phạm filter)."
+q19,A,What did WorldCom's CEO do in 2001 that illustrates an agency problem?,,The CEO used company assets to underwrite several personal loans.,[64],"occurred at WorldCom in 2001, when th eir CEO used company assets to underwrite several personal loans.",True,"[p64 pof-ch1-3:p064:fixed500-50:c00] An example of an agency problem between management an d shareholders occurred at WorldCom in 2001, when th eir CEO used
+company assets to underwrite several personal loans. As a result of these inappropriate actions, the company took on additional
+debt that negatively impacted WorldCom’s capital structure, liquidity, and ultimately its stock price. From this example, we can see
+how individual greed on the part of agents, executives, or corporate management can lead to significant agency problems","[p64 pof-ch1-3:p064:fixed500-50:c08] are. The comp any filed for
+bankruptcy in December 2001, and criminal charges were brought against several key Enron employees, includ ing former
+CEO Kenneth Lay and former CFO Andrew Fastow. Jeffrey Skilli ng was subsequently named CEO in February 2001, but he
+ended up resigning six months later.
+Bernard L. Madoff Investment Securities LLC
+Ponzi schemes are common examples of the agency proble m. Agency theory claims that a lack of oversight and incentive
+alignment greatly contributes to these ","[p64 pof-ch1-3:p064:fixed500-50:c05] nd had been hired as CEO. Heyer, who was awarded an
+exorbitant executive salary, was also allowed to sink the company into further debt. Harry & David has sinc e emerged from
+bankruptcy under new leadership. But this example shou ld serve as a cautionary tale of what can happen when stockholders are
+able to put their interests ahead of those of other stakeholders in a corporate environment.
+
+Infamous Agency Problems
+Enron
+Enron is one particularly infamous example of an ag ency problem. Enron’s ",2,Top-1 (p64) chứa trọn câu WorldCom 2001: CEO dùng tài sản công ty bảo lãnh khoản vay cá nhân.
+q20,A,Roughly what share of US GDP comes from household purchases?,,About two-thirds (consumption expenditure).,[98],Consumption expenditure accounts for about two-thirds of the US GDP.,False,"[p98 pof-ch1-3:p098:fixed500-50:c01] ry’s GDP is the dollar value of all of the final goods
+and service produced within that country during a ye ar. GDP measures the value of all of the automobiles prod uced, apples grown,
+heart surgeries performed, students educated, and all other new goods and services produced in a current year.
+How Is GDP Measured?
+GDP can be measured by adding up all of the items tha t are purchased in the economy. Purchases are divided into four broad
+expenditure categories: consumption spending, investme nt,","[p98 pof-ch1-3:p098:fixed500-50:c08] rom other countries. Including net exports in the GDP calculation
+adjusts for this international trade.
+Historical Trends in GDP
+US GDP over the past 70 years is represented by the blu e line in Figure 3.12. At the turn of the millennium, the yearly GDP of the
+United States was approximately $10 trillion. By 2020, t he GDP exceeded $21 trillion, indicating that the US eco nomy had more
+than doubled in size in the first 20 years of the 21st century.
+Because GDP is the market value of all goods an","[p99 pof-ch1-3:p099:fixed500-50:c00] levels in a base year. Thus, real GDP will rise only if more goods and services are being produced. The red line in Figure 3.12
+represents the real GDP. Although its growth has not been as large as that of nominal GDP, real GDP has also grown significantly
+over the past 70 years.
+Figure 3.12: Growth of the US GDP Gross domestic product (GDP), the featured measure of US output, is the mark et value of the
+goods and services produced by labor and property loca ted in the United States. Real gross ",0,Cả top-3 không có câu 'two-thirds'; top-1 (p98) bị cắt ngay sau khi liệt kê các nhóm chi tiêu.
+q16,B,"If market makers do not rely on the performance of the securities they hold, how do they earn money?",,Dealers earn money from trading volume and the spread between their bid and ask prices.,"[29, 41]",dealers mak e money from the volume of trading and the spread b etween their bid price (what they are willing to pay for a security) and the ir ask price (the price at which they are willing to s ell a security).,True,"[p29 pof-ch1-3:p029:para800:c00] Figure 1.7: Broker and Dealer Markets
+Dealers
+Financial dealers own the securities that they buy or sell. When a dealer engages in a financial transact ion, they are trading from
+their own portfolio. Dealers do not participate in the market in the same manner as an individual or insti tutional investor, who is
+simply trying to make their investments worth as muc h as possible. Instead, dealers attempt to “make market s,” meaning they are
+willing and able to buy and sell at the current bid and ask prices for a security.","[p40 pof-ch1-3:p040:para800:c03] 1.5 Markets and Participants
+Financial markets are where buyers and sellers of fin ancial securities come together to trade. The trading of securities allows
+markets to value assets and signal value as new inform ation arrives. Brokers operate to bring buyers and sel lers together and
+receive commissions. Dealers trade from their own por tfolios and are often willing to make markets for spe cific securities by
+agreeing to buy or sell at the current bid and ask prices. Financial intermediaries actually change or create new financial products.
+1.6 Microeconomic and Macroeconomic Matters","[p29 pof-ch1-3:p029:para800:c01] Rather than relying on the performance of the
+underlying securities to generate wealth, dealers mak e money from the volume of trading and the spread b etween their bid price
+(what they are willing to pay for a security) and the ir ask price (the price at which they are willing to s ell a security). By standing
+ready to always buy or sell, dealers increase the liqui dity and efficiency of the market. Dealers in the Uni ted States fall under the
+regulatory jurisdiction of the Securities and Exchange Commission (SEC). Such regulatory oversight ensures th at dealers execute
+orders promptly, charge reasonable prices, and disclose any potential conflicts of interest with investors.",2,Top-3 (p29) chứa trọn câu: dealer kiếm tiền từ khối lượng giao dịch và chênh lệch bid-ask; top-2 (p40 Summary) bổ sung ngữ cảnh.
+q17,B,When can a company's pursuit of risky projects create a conflict involving its debt holders?,,"When the company takes on risky investments to drive profitability, the higher risk can threaten its ability to repay its debts, leading to possible default.",[64],"If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk levels could threaten the company’s ability to service (repay) their debts, leading to possible default.",True,"[p64 pof-ch1-3:p064:para800:c00] An example of an agency problem between management an d shareholders occurred at WorldCom in 2001, when th eir CEO used
+company assets to underwrite several personal loans. As a result of these inappropriate actions, the company took on additional
+debt that negatively impacted WorldCom’s capital structure, liquidity, and ultimately its stock price. From this example, we can see
+how individual greed on the part of agents, executives, or corporate management can lead to significant agency problems.
+Investors versus Creditors
+If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk
+levels could threaten the company’s ability to service (repay) their debts, leading to possible default.","[p64 pof-ch1-3:p064:para800:c01] This additional risk could also result in creditors ta king steps to devalue such debts, which in most cases refers to company bond
+issues. In the end, if these riskier projects end up failing and the company loses money, investors (bon dholders) may also
+experience financial risk as bonds go into default o r otherwise lose market value. This then becomes a pote ntial agency problem
+between bondholders (investors) and creditors.","[p64 pof-ch1-3:p064:para800:c04] But this example shou ld serve as a cautionary tale of what can happen when stockholders are
+able to put their interests ahead of those of other stakeholders in a corporate environment.
+
+Infamous Agency Problems
+Enron
+Enron is one particularly infamous example of an ag ency problem. Enron’s directors were responsible for protecting and
+promoting investor interests, but they failed to carry out their regulatory and oversight responsibilities , enabling the company
+to venture into illegal activity. The company’s resu lting accounting scandal resulted in billions of doll ars in losses to its
+investors.",2,Top-1 (p64) chứa trọn câu điều kiện về dự án rủi ro và khả năng trả nợ; top-2 nói tiếp hệ quả với trái chủ.
+q18,B,"In the economic foundations chapter, what does inflation mean for the purchasing power of a currency?",,The purchasing power of currency falls; a $100 bill buys less than before.,[95],"Inflation mean s that the purchasing power of currency falls. Whenever there is inflation, a $100 bill will not purchase as much as it did before.",True,"[p95 pof-ch1-3:p095:para800:c03] When economists talk about inflation, they are discus sing this phenomenon of the price of many things risin g. Instead of tracking
+the price of one particular item, they consider the p rice of purchasing a basket of goods. Inflation mean s that the purchasing power
+of currency falls. Whenever there is inflation, a $100 bill will not purchase as much as it did before.","[p31 pof-ch1-3:p031:para800:c04] Importance of Macroeconomic Variables in Financial Markets
+To make financial forecasts, managers need good inf ormation to understand the relationship among severa l economic variables.
+Working from small to large, sales forecasts estimate the likely price and quantity of goods sold. In do ing so, the forecaster will
+consider local, regional, state, national, and internat ional economic conditions. Inflation is an importan t macroeconomic variable
+that influences prices. Every quarter, financial info rmation hubs, such as the Wall Street Journal (WSJ), and government agencies
+and regulatory bodies, such as the Treasury Departmen t and the Federal Reserve, release estimates about exp ected and current
+inflation.","[p95 pof-ch1-3:p095:para800:c07] While the CPI and the core inflation index are based on the prices that households pay, the producer pri ce index (PPI) is based on
+prices that producers of goods and services pay for their supplies and raw materials. The PPI captures price changes that occur prior
+to the retail level. Because it indicates rising costs to producers, increases in the PPI can foreshadow increases in the CPI.
+Both the CPI and the PPI are calculated by the BLS. The Bureau of Economic Analysis (BEA) also calculates a mea sure of
+inflation known as the GDP deflator. The calculation o f the GDP, or gross domestic product, deflator follows a different approach
+than that used to calculate the CPI and the PPI. Instead of using a fixed basket of items and measuring the price change of that fixed
+Learning Objectives",2,Top-1 (p95) chứa trọn hai câu về sức mua giảm và ví dụ tờ $100. Top-2 thuộc chương 1 (B không lọc).
+q19,B,What did WorldCom's CEO do in 2001 that illustrates an agency problem?,,The CEO used company assets to underwrite several personal loans.,[64],"occurred at WorldCom in 2001, when th eir CEO used company assets to underwrite several personal loans.",True,"[p64 pof-ch1-3:p064:para800:c00] An example of an agency problem between management an d shareholders occurred at WorldCom in 2001, when th eir CEO used
+company assets to underwrite several personal loans. As a result of these inappropriate actions, the company took on additional
+debt that negatively impacted WorldCom’s capital structure, liquidity, and ultimately its stock price. From this example, we can see
+how individual greed on the part of agents, executives, or corporate management can lead to significant agency problems.
+Investors versus Creditors
+If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk
+levels could threaten the company’s ability to service (repay) their debts, leading to possible default.","[p64 pof-ch1-3:p064:para800:c06] Disaster started to unfold in 2001, when common stock p rices fell from $90 to under $1 per share. The comp any filed for
+bankruptcy in December 2001, and criminal charges were brought against several key Enron employees, includ ing former
+CEO Kenneth Lay and former CFO Andrew Fastow. Jeffrey Skilli ng was subsequently named CEO in February 2001, but he
+ended up resigning six months later.
+Bernard L. Madoff Investment Securities LLC
+Ponzi schemes are common examples of the agency proble m. Agency theory claims that a lack of oversight and incentive
+alignment greatly contributes to these problems. Many investors fall into Ponzi schemes thinking that taking fund management
+outside a traditional banking institution reduces fees and saves money.","[p64 pof-ch1-3:p064:para800:c03] A more specific example of such an agency problem o ccurred in 2011, when Oregon-based food and gift baske t company Harry &
+David was forced to file for bankruptcy. This was a direct result of the company being purchased through a leveraged buyout that
+left the company saddled with a tremendous amount of d ebt. However, the most important factor leading to the company’s failure
+was the actions of Steven Heyer, who was a friend of the new owners and had been hired as CEO. Heyer, who was awarded an
+exorbitant executive salary, was also allowed to sink the company into further debt. Harry & David has sinc e emerged from
+bankruptcy under new leadership.",2,Top-1 (p64) chứa trọn câu WorldCom 2001.
+q20,B,Roughly what share of US GDP comes from household purchases?,,About two-thirds (consumption expenditure).,[98],Consumption expenditure accounts for about two-thirds of the US GDP.,True,"[p98 pof-ch1-3:p098:para800:c01] GDP can be measured by adding up all of the items tha t are purchased in the economy. Purchases are divided into four broad
+expenditure categories: consumption spending, investme nt, government spending, and net exports. Consumptio n spending
+measures the items that households purchase, such as movie theater tickets, cups of coffee, and clothing . Consumption expenditure
+accounts for about two-thirds of the US GDP.","[p99 pof-ch1-3:p099:para800:c00] levels in a base year. Thus, real GDP will rise only if more goods and services are being produced. The red line in Figure 3.12
+represents the real GDP. Although its growth has not been as large as that of nominal GDP, real GDP has also grown significantly
+over the past 70 years.
+Figure 3.12: Growth of the US GDP Gross domestic product (GDP), the featured measure of US output, is the mark et value of the
+goods and services produced by labor and property loca ted in the United States. Real gross domestic product i s the inflation-
+adjusted value of the goods and services produced by labor and property located in the United States. For more information, see the
+NIP A Handbook: Concepts and Methods of the US Nationa l Income and Product Accounts and the US Bureau of Economic
+Analysis.","[p98 pof-ch1-3:p098:para800:c06] Historical Trends in GDP
+US GDP over the past 70 years is represented by the blu e line in Figure 3.12. At the turn of the millennium, the yearly GDP of the
+United States was approximately $10 trillion. By 2020, t he GDP exceeded $21 trillion, indicating that the US eco nomy had more
+than doubled in size in the first 20 years of the 21st century.",2,Top-1 (p98) chứa câu 'Consumption expenditure accounts for about two-thirds of the US GDP' trong ngữ cảnh 4 nhóm chi tiêu.
+q16,C,"If market makers do not rely on the performance of the securities they hold, how do they earn money?",,Dealers earn money from trading volume and the spread between their bid and ask prices.,"[29, 41]",dealers mak e money from the volume of trading and the spread b etween their bid price (what they are willing to pay for a security) and the ir ask price (the price at which they are willing to s ell a security).,True,"[p29 pof-ch1-3:p029:para800:c00] Figure 1.7: Broker and Dealer Markets
+Dealers
+Financial dealers own the securities that they buy or sell. When a dealer engages in a financial transact ion, they are trading from
+their own portfolio. Dealers do not participate in the market in the same manner as an individual or insti tutional investor, who is
+simply trying to make their investments worth as muc h as possible. Instead, dealers attempt to “make market s,” meaning they are
+willing and able to buy and sell at the current bid and ask prices for a security.","[p40 pof-ch1-3:p040:para800:c03] 1.5 Markets and Participants
+Financial markets are where buyers and sellers of fin ancial securities come together to trade. The trading of securities allows
+markets to value assets and signal value as new inform ation arrives. Brokers operate to bring buyers and sel lers together and
+receive commissions. Dealers trade from their own por tfolios and are often willing to make markets for spe cific securities by
+agreeing to buy or sell at the current bid and ask prices. Financial intermediaries actually change or create new financial products.
+1.6 Microeconomic and Macroeconomic Matters","[p29 pof-ch1-3:p029:para800:c01] Rather than relying on the performance of the
+underlying securities to generate wealth, dealers mak e money from the volume of trading and the spread b etween their bid price
+(what they are willing to pay for a security) and the ir ask price (the price at which they are willing to s ell a security). By standing
+ready to always buy or sell, dealers increase the liqui dity and efficiency of the market. Dealers in the Uni ted States fall under the
+regulatory jurisdiction of the Securities and Exchange Commission (SEC). Such regulatory oversight ensures th at dealers execute
+orders promptly, charge reasonable prices, and disclose any potential conflicts of interest with investors.",2,Top-3 (p29) chứa trọn câu: dealer kiếm tiền từ khối lượng giao dịch và chênh lệch bid-ask; top-2 (p40 Summary) bổ sung ngữ cảnh.
+q17,C,When can a company's pursuit of risky projects create a conflict involving its debt holders?,,"When the company takes on risky investments to drive profitability, the higher risk can threaten its ability to repay its debts, leading to possible default.",[64],"If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk levels could threaten the company’s ability to service (repay) their debts, leading to possible default.",True,"[p64 pof-ch1-3:p064:para800:c00] An example of an agency problem between management an d shareholders occurred at WorldCom in 2001, when th eir CEO used
+company assets to underwrite several personal loans. As a result of these inappropriate actions, the company took on additional
+debt that negatively impacted WorldCom’s capital structure, liquidity, and ultimately its stock price. From this example, we can see
+how individual greed on the part of agents, executives, or corporate management can lead to significant agency problems.
+Investors versus Creditors
+If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk
+levels could threaten the company’s ability to service (repay) their debts, leading to possible default.","[p64 pof-ch1-3:p064:para800:c01] This additional risk could also result in creditors ta king steps to devalue such debts, which in most cases refers to company bond
+issues. In the end, if these riskier projects end up failing and the company loses money, investors (bon dholders) may also
+experience financial risk as bonds go into default o r otherwise lose market value. This then becomes a pote ntial agency problem
+between bondholders (investors) and creditors.","[p64 pof-ch1-3:p064:para800:c04] But this example shou ld serve as a cautionary tale of what can happen when stockholders are
+able to put their interests ahead of those of other stakeholders in a corporate environment.
+
+Infamous Agency Problems
+Enron
+Enron is one particularly infamous example of an ag ency problem. Enron’s directors were responsible for protecting and
+promoting investor interests, but they failed to carry out their regulatory and oversight responsibilities , enabling the company
+to venture into illegal activity. The company’s resu lting accounting scandal resulted in billions of doll ars in losses to its
+investors.",2,Top-1 (p64) chứa trọn câu điều kiện về dự án rủi ro và khả năng trả nợ; top-2 nói tiếp hệ quả với trái chủ.
+q18,C,"In the economic foundations chapter, what does inflation mean for the purchasing power of a currency?","{""chapter"": ""3""}",The purchasing power of currency falls; a $100 bill buys less than before.,[95],"Inflation mean s that the purchasing power of currency falls. Whenever there is inflation, a $100 bill will not purchase as much as it did before.",True,"[p95 pof-ch1-3:p095:para800:c03] When economists talk about inflation, they are discus sing this phenomenon of the price of many things risin g. Instead of tracking
+the price of one particular item, they consider the p rice of purchasing a basket of goods. Inflation mean s that the purchasing power
+of currency falls. Whenever there is inflation, a $100 bill will not purchase as much as it did before.","[p95 pof-ch1-3:p095:para800:c07] While the CPI and the core inflation index are based on the prices that households pay, the producer pri ce index (PPI) is based on
+prices that producers of goods and services pay for their supplies and raw materials. The PPI captures price changes that occur prior
+to the retail level. Because it indicates rising costs to producers, increases in the PPI can foreshadow increases in the CPI.
+Both the CPI and the PPI are calculated by the BLS. The Bureau of Economic Analysis (BEA) also calculates a mea sure of
+inflation known as the GDP deflator. The calculation o f the GDP, or gross domestic product, deflator follows a different approach
+than that used to calculate the CPI and the PPI. Instead of using a fixed basket of items and measuring the price change of that fixed
+Learning Objectives","[p96 pof-ch1-3:p096:para800:c02] Although keeping the items in th e market basket constant allows economists to focus on price changes, the
+market basket quickly becomes outdated and does not reflect a typical family’s purchases.
+In an attempt to provide new measures of inflation t hat better represent the changing basket of goods p urchased and the
+purchasing habits of families, Alberto Cavallo and Roberto Rigobon founded the Billion Prices Project. Through this academic
+initiative at the Massachusetts Institute of Technolog y, prices are collected daily from online retailers around the world. The
+Billion Prices Project website provides measures for inflation using this data as we ll as research papers regarding
+macroeconomic research.",2,Top-1 (p95) chứa trọn hai câu về sức mua giảm và ví dụ tờ $100. Cả top-3 đều thuộc chương 3.
+q19,C,What did WorldCom's CEO do in 2001 that illustrates an agency problem?,,The CEO used company assets to underwrite several personal loans.,[64],"occurred at WorldCom in 2001, when th eir CEO used company assets to underwrite several personal loans.",True,"[p64 pof-ch1-3:p064:para800:c00] An example of an agency problem between management an d shareholders occurred at WorldCom in 2001, when th eir CEO used
+company assets to underwrite several personal loans. As a result of these inappropriate actions, the company took on additional
+debt that negatively impacted WorldCom’s capital structure, liquidity, and ultimately its stock price. From this example, we can see
+how individual greed on the part of agents, executives, or corporate management can lead to significant agency problems.
+Investors versus Creditors
+If a company decides to engage in risky investments and projects in order to drive organizational profi tability, these increased risk
+levels could threaten the company’s ability to service (repay) their debts, leading to possible default.","[p64 pof-ch1-3:p064:para800:c06] Disaster started to unfold in 2001, when common stock p rices fell from $90 to under $1 per share. The comp any filed for
+bankruptcy in December 2001, and criminal charges were brought against several key Enron employees, includ ing former
+CEO Kenneth Lay and former CFO Andrew Fastow. Jeffrey Skilli ng was subsequently named CEO in February 2001, but he
+ended up resigning six months later.
+Bernard L. Madoff Investment Securities LLC
+Ponzi schemes are common examples of the agency proble m. Agency theory claims that a lack of oversight and incentive
+alignment greatly contributes to these problems. Many investors fall into Ponzi schemes thinking that taking fund management
+outside a traditional banking institution reduces fees and saves money.","[p64 pof-ch1-3:p064:para800:c03] A more specific example of such an agency problem o ccurred in 2011, when Oregon-based food and gift baske t company Harry &
+David was forced to file for bankruptcy. This was a direct result of the company being purchased through a leveraged buyout that
+left the company saddled with a tremendous amount of d ebt. However, the most important factor leading to the company’s failure
+was the actions of Steven Heyer, who was a friend of the new owners and had been hired as CEO. Heyer, who was awarded an
+exorbitant executive salary, was also allowed to sink the company into further debt. Harry & David has sinc e emerged from
+bankruptcy under new leadership.",2,Top-1 (p64) chứa trọn câu WorldCom 2001.
+q20,C,Roughly what share of US GDP comes from household purchases?,,About two-thirds (consumption expenditure).,[98],Consumption expenditure accounts for about two-thirds of the US GDP.,True,"[p98 pof-ch1-3:p098:para800:c01] GDP can be measured by adding up all of the items tha t are purchased in the economy. Purchases are divided into four broad
+expenditure categories: consumption spending, investme nt, government spending, and net exports. Consumptio n spending
+measures the items that households purchase, such as movie theater tickets, cups of coffee, and clothing . Consumption expenditure
+accounts for about two-thirds of the US GDP.","[p99 pof-ch1-3:p099:para800:c00] levels in a base year. Thus, real GDP will rise only if more goods and services are being produced. The red line in Figure 3.12
+represents the real GDP. Although its growth has not been as large as that of nominal GDP, real GDP has also grown significantly
+over the past 70 years.
+Figure 3.12: Growth of the US GDP Gross domestic product (GDP), the featured measure of US output, is the mark et value of the
+goods and services produced by labor and property loca ted in the United States. Real gross domestic product i s the inflation-
+adjusted value of the goods and services produced by labor and property located in the United States. For more information, see the
+NIP A Handbook: Concepts and Methods of the US Nationa l Income and Product Accounts and the US Bureau of Economic
+Analysis.","[p98 pof-ch1-3:p098:para800:c06] Historical Trends in GDP
+US GDP over the past 70 years is represented by the blu e line in Figure 3.12. At the turn of the millennium, the yearly GDP of the
+United States was approximately $10 trillion. By 2020, t he GDP exceeded $21 trillion, indicating that the US eco nomy had more
+than doubled in size in the first 20 years of the 21st century.",2,Top-1 (p98) chứa câu 'Consumption expenditure accounts for about two-thirds of the US GDP' trong ngữ cảnh 4 nhóm chi tiêu.

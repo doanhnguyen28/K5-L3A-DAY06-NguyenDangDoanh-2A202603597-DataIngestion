@@ -1,0 +1,199 @@
+﻿position_id,page,char_offset,strategy,chunk_id,note,chunk_text,score_0_2,reason
+1,11,1350,A,pof-ch1-3:p011:fixed500-50:c02,," family ownership. Ba con Signs, established in 1901, had weathered the Great Depression, World
+War II, the Vietnam War, and the oil embargo and was working its way through historically high rates of inflation and interest rates.
+The family business had successfully struggled through the ebb and flow of the regional and national economy by providing quality
+products and service to its regional clients.
+In the early 1980s, the company’s fortunes changed permanently for the better. The owner recog",1,Bắt đầu giữa câu ('family ownership. Ba con Signs...') và cắt giữa từ ở cuối ('The owner recog'); ý chính ở giữa vẫn hiểu được.
+1,11,1350,B,pof-ch1-3:p011:para800:c03,,"In the early 1980s, the company’s fortunes changed permanently for the better. The owner recognized that the custom signs built by
+his firm were superior in quality to the signs it ins talled for national franchises. The owner worked with the company’s banker and
+vice president of finance and operations to develop a production, sales, and financing plan that could be offered to the larger
+national sign companies. The larger companies agreed to subcontract manufacturing of midsize orders to B acon Signs. The firm
+then made a commitment to build and deliver these signs on time and under budget. As Bacon Signs’ reputation for quality grew, so
+did demand for its products.",2,"Trọn một đoạn văn: sự thay đổi của Bacon Signs đầu thập niên 1980, tự hiểu được."
+1,11,1350,C,pof-ch1-3:p011:para800:c03,same chunk as B (C only adds a filter),"In the early 1980s, the company’s fortunes changed permanently for the better. The owner recognized that the custom signs built by
+his firm were superior in quality to the signs it ins talled for national franchises. The owner worked with the company’s banker and
+vice president of finance and operations to develop a production, sales, and financing plan that could be offered to the larger
+national sign companies. The larger companies agreed to subcontract manufacturing of midsize orders to B acon Signs. The firm
+then made a commitment to build and deliver these signs on time and under budget. As Bacon Signs’ reputation for quality grew, so
+did demand for its products.",2,"Cùng chunk với B: Trọn một đoạn văn: sự thay đổi của Bacon Signs đầu thập niên 1980, tự hiểu được."
+2,20,1425,A,pof-ch1-3:p020:fixed500-50:c03,,"cal data and expec tations, as well as
+aspirations for the future. The budgeting process hel ps the firm identify what actions need to be undertak en to achieve its
+objectives. However, no matter how strong the budgetin g process, actual events can change the timing and ma gnitude of expected
+cash flows.
+Financial forecasting addresses the changes necessary to the budgeting process. Budgeting can help identi fy the differences or
+variance from expectations, and forecasting becomes t he process f",1,Bắt đầu giữa từ ('cal data and expec tations') và cắt giữa từ ở cuối ('the process f'); đoạn về budgeting ở giữa còn hiểu được.
+2,20,1425,B,pof-ch1-3:p020:para800:c02,,"The budgeting process hel ps the firm identify what actions need to be undertak en to achieve its
+objectives. However, no matter how strong the budgetin g process, actual events can change the timing and ma gnitude of expected
+cash flows.",2,"Trọn một đoạn ngắn về quy trình budgeting, tự hiểu được."
+2,20,1425,C,pof-ch1-3:p020:para800:c02,same chunk as B (C only adds a filter),"The budgeting process hel ps the firm identify what actions need to be undertak en to achieve its
+objectives. However, no matter how strong the budgetin g process, actual events can change the timing and ma gnitude of expected
+cash flows.",2,"Cùng chunk với B: Trọn một đoạn ngắn về quy trình budgeting, tự hiểu được."
+3,30,749,A,pof-ch1-3:p030:fixed500-50:c01,,"ncial intermedi ary. When this occurs on a large scale, the process, kn own as
+disintermediation, can cause much turmoil in the fin ancial markets. In the 1970s, inflation rose above 10% o n an annual basis, and
+yet commercial banks were limited to offering maximum rates of 5% on their savings deposits. Savers bypassed banks and savings
+and loan associations to invest directly into Treasu ry securities and other short-term marketable securit ies. This lack of deposit
+funds and the subsequent beh",0,"Mất chủ thể: bắt đầu bằng 'When this occurs...', không còn câu định nghĩa trước đó (giao dịch không qua trung gian), nên không hiểu disintermediation là gì; cuối bị cắt ('subsequent beh')."
+3,30,749,B,pof-ch1-3:p030:para800:c01,,"Financial institutions usually facilitate financial i ntermediation. However, occasionally lenders and borro wers are able to initiate
+transactions without the help of a financial intermedi ary. When this occurs on a large scale, the process, kn own as
+disintermediation, can cause much turmoil in the fin ancial markets. In the 1970s, inflation rose above 10% o n an annual basis, and
+yet commercial banks were limited to offering maximum rates of 5% on their savings deposits. Savers bypassed banks and savings
+and loan associations to invest directly into Treasu ry securities and other short-term marketable securit ies.",2,"Có đủ câu mở đầu về financial intermediation, định nghĩa disintermediation và ví dụ thập niên 1970."
+3,30,749,C,pof-ch1-3:p030:para800:c01,same chunk as B (C only adds a filter),"Financial institutions usually facilitate financial i ntermediation. However, occasionally lenders and borro wers are able to initiate
+transactions without the help of a financial intermedi ary. When this occurs on a large scale, the process, kn own as
+disintermediation, can cause much turmoil in the fin ancial markets. In the 1970s, inflation rose above 10% o n an annual basis, and
+yet commercial banks were limited to offering maximum rates of 5% on their savings deposits. Savers bypassed banks and savings
+and loan associations to invest directly into Treasu ry securities and other short-term marketable securit ies.",2,"Cùng chunk với B: Có đủ câu mở đầu về financial intermediation, định nghĩa disintermediation và ví dụ thập niên 1970."
+4,39,299,A,pof-ch1-3:p039:fixed500-50:c00,,"Generally, the economic value is at least as great as t he market value or current price of an asset. When B acon Signs planned for
+the future, the firm attempted to determine the eco nomic value of its products when creating an optimal mix of price and quantity
+sold. Firms that produce unique products for clients m ay have multiple prices based on the estimated econ omic value of their good
+or service to the client. One way to think about the d ifference between market value and economic value ",1,"Đầu trang nên mở đầu tốt, nhưng bị cắt ngay giữa câu so sánh market value với economic value, là ý chính của đoạn."
+4,39,299,B,pof-ch1-3:p039:para800:c00,,"Generally, the economic value is at least as great as t he market value or current price of an asset. When B acon Signs planned for
+the future, the firm attempted to determine the eco nomic value of its products when creating an optimal mix of price and quantity
+sold. Firms that produce unique products for clients m ay have multiple prices based on the estimated econ omic value of their good
+or service to the client. One way to think about the d ifference between market value and economic value is that market value is
+what you have to pay, while economic value is what you are willing to pay.",2,"Trọn đoạn, gồm cả câu kết so sánh market value và economic value."
+4,39,299,C,pof-ch1-3:p039:para800:c00,same chunk as B (C only adds a filter),"Generally, the economic value is at least as great as t he market value or current price of an asset. When B acon Signs planned for
+the future, the firm attempted to determine the eco nomic value of its products when creating an optimal mix of price and quantity
+sold. Firms that produce unique products for clients m ay have multiple prices based on the estimated econ omic value of their good
+or service to the client. One way to think about the d ifference between market value and economic value is that market value is
+what you have to pay, while economic value is what you are willing to pay.",2,"Cùng chunk với B: Trọn đoạn, gồm cả câu kết so sánh market value và economic value."
+5,54,2162,A,pof-ch1-3:p054:fixed500-50:c04,,"ges Disadvantages
+Fewer restrictions on eligibility
+(only one member allowed; can
+be professional, although some
+states disallow professionals)
+Only certain professions eligible
+Usually more personal liability
+protection
+Limited protection from
+partners’ actions
+Personal protection as well as
+protection from negligence of
+other partners
+
+Flexibility in taxation Earnings included in members’personal taxes Earnings taxed just once Must file taxes as pass-throughentity
+LLCs and LLPs have gained gre",0,"Chỉ là mảnh của Table 2.1 (header bị cắt 'ges Disadvantages', các ô bảng rời rạc) cộng phần đầu một câu bị cắt ('gained gre'); không hiểu được."
+5,54,2162,B,pof-ch1-3:p054:para800:c04,,"Flexibility in taxation Earnings included in members’personal taxes Earnings taxed just once Must file taxes as pass-throughentity
+LLCs and LLPs have gained great popularity in recent y ears, but larger companies still find substantial adva ntages in being
+structured as C corporations. This is primarily due to the benefits of raising capital to support long-t erm growth. It is interesting to
+note that LLC and LLP organizational structures were e ssentially devised by attorneys. They generally are rat her complicated, and
+the legal protection offered to their ownership prin cipals may vary from state to state. For these reasons, i t is usually necessary to
+retain a knowledgeable lawyer when establishing an organization of this type.",1,"Đoạn về LLC/LLP và C corporation trọn ý, nhưng mở đầu bằng một dòng bảng mồ côi ('Flexibility in taxation...') không có header."
+5,54,2162,C,pof-ch1-3:p054:para800:c04,same chunk as B (C only adds a filter),"Flexibility in taxation Earnings included in members’personal taxes Earnings taxed just once Must file taxes as pass-throughentity
+LLCs and LLPs have gained great popularity in recent y ears, but larger companies still find substantial adva ntages in being
+structured as C corporations. This is primarily due to the benefits of raising capital to support long-t erm growth. It is interesting to
+note that LLC and LLP organizational structures were e ssentially devised by attorneys. They generally are rat her complicated, and
+the legal protection offered to their ownership prin cipals may vary from state to state. For these reasons, i t is usually necessary to
+retain a knowledgeable lawyer when establishing an organization of this type.",1,"Cùng chunk với B: Đoạn về LLC/LLP và C corporation trọn ý, nhưng mở đầu bằng một dòng bảng mồ côi ('Flexibility in taxation...') không có header."
+6,61,1992,A,pof-ch1-3:p061:fixed500-50:c04,,"es, board members have no affiliation wit h activities or organizations that could result in conflicts of interest. An
+example of this might be a scenario in which a board is considering the formation of a partnership or all iance with an organization
+that is directly associated with one of its board members. In such an instance, a director might be excused from participating in that
+decision process, particularly if it is clear that it would lead to potential conflict.
+A board with a majority o",1,"Bắt đầu giữa từ ('es, board members...'); ý về xung đột lợi ích còn hiểu được; cuối bị cắt ('A board with a majority o')."
+6,61,1992,B,pof-ch1-3:p061:para800:c03,,"In most cases, board members have no affiliation wit h activities or organizations that could result in conflicts of interest. An
+example of this might be a scenario in which a board is considering the formation of a partnership or all iance with an organization
+that is directly associated with one of its board members. In such an instance, a director might be excused from participating in that
+decision process, particularly if it is clear that it would lead to potential conflict.
+A board with a majority of independent directors can bring expertise and objectivity, which",1,"Đoạn về xung đột lợi ích trọn ý, nhưng câu cuối bị cắt ở ranh giới trang ('...objectivity, which'), vì chunk không vượt qua trang."
+6,61,1992,C,pof-ch1-3:p061:para800:c03,same chunk as B (C only adds a filter),"In most cases, board members have no affiliation wit h activities or organizations that could result in conflicts of interest. An
+example of this might be a scenario in which a board is considering the formation of a partnership or all iance with an organization
+that is directly associated with one of its board members. In such an instance, a director might be excused from participating in that
+decision process, particularly if it is clear that it would lead to potential conflict.
+A board with a majority of independent directors can bring expertise and objectivity, which",1,"Cùng chunk với B: Đoạn về xung đột lợi ích trọn ý, nhưng câu cuối bị cắt ở ranh giới trang ('...objectivity, which'), vì chunk không vượt qua trang."
+7,70,1836,A,pof-ch1-3:p070:fixed500-50:c03,,"l l typically maintain significant levels of internati onal investment and
+conduct operations that may be quite diverse, both g eographically and culturally. For such international firms, parent company
+accounting will usually adhere to GAAP standards. Conver sely, non-US subsidiaries of such international firms may be regulated
+by laws dictated by their host countries. These will often differ significantly from those in the United States.
+In recent years, accounting regulations in countries out",1,"Mất chủ ngữ của câu đầu ('l l typically maintain...', thiếu 'International firms'); về sau có 'such international firms' nên đoán lại được; cuối bị cắt."
+7,70,1836,B,pof-ch1-3:p070:para800:c02,,"International firms, while based in the United States, wil l typically maintain significant levels of internati onal investment and
+conduct operations that may be quite diverse, both g eographically and culturally. For such international firms, parent company
+accounting will usually adhere to GAAP standards. Conver sely, non-US subsidiaries of such international firms may be regulated
+by laws dictated by their host countries. These will often differ significantly from those in the United States.
+In recent years, accounting regulations in countries outside the United States have come under the jurisdic tion of International
+Financial Reporting Standards (IFRS). It should be noted that guidelines and regulations under IFRS and those under GAAP can
+differ significantly.",2,"Trọn đoạn về international firms, GAAP và IFRS, có chủ ngữ đầy đủ."
+7,70,1836,C,pof-ch1-3:p070:para800:c02,same chunk as B (C only adds a filter),"International firms, while based in the United States, wil l typically maintain significant levels of internati onal investment and
+conduct operations that may be quite diverse, both g eographically and culturally. For such international firms, parent company
+accounting will usually adhere to GAAP standards. Conver sely, non-US subsidiaries of such international firms may be regulated
+by laws dictated by their host countries. These will often differ significantly from those in the United States.
+In recent years, accounting regulations in countries outside the United States have come under the jurisdic tion of International
+Financial Reporting Standards (IFRS). It should be noted that guidelines and regulations under IFRS and those under GAAP can
+differ significantly.",2,"Cùng chunk với B: Trọn đoạn về international firms, GAAP và IFRS, có chủ ngữ đầy đủ."
+8,85,1053,A,pof-ch1-3:p085:fixed500-50:c02,,"s.
+A successful business cannot just create and manufac ture a product or provide a service; it must produce a product or service that
+customers will purchase. Demand refers to the quantity of a good or service that consumers are willing and a ble to purchase at
+various prices during a given time period, ceteris paribus (a Latin phrase meaning “all other things being equal”).
+Let’s consider what the demand for pizza might look like. Suppose that at a price of $30 per pizza, no one will purchase ",1,"Định nghĩa demand đầy đủ, nhưng mở đầu bằng mảnh 's.' và cuối cắt giữa câu ví dụ pizza."
+8,85,1053,B,pof-ch1-3:p085:para800:c02,,"A successful business cannot just create and manufac ture a product or provide a service; it must produce a product or service that
+customers will purchase. Demand refers to the quantity of a good or service that consumers are willing and a ble to purchase at
+various prices during a given time period, ceteris paribus (a Latin phrase meaning “all other things being equal”).
+Let’s consider what the demand for pizza might look like. Suppose that at a price of $30 per pizza, no one will purchase a pizza, but
+if the price of a pizza is $25, 10 people might buy a pizza. If the price falls even lower, more pizzas will be purchased, as shown in
+Table 3.1.
+Table 3.1: Demand Schedule for Pizza
+Price ($) Quantity
+30 0
+25 10
+20 20
+15 30
+10 40",1,"Định nghĩa demand và ví dụ trọn ý, nhưng Table 3.1 bị cắt ở giới hạn 800 ký tự (thiếu dòng '5 50')."
+8,85,1053,C,pof-ch1-3:p085:para800:c02,same chunk as B (C only adds a filter),"A successful business cannot just create and manufac ture a product or provide a service; it must produce a product or service that
+customers will purchase. Demand refers to the quantity of a good or service that consumers are willing and a ble to purchase at
+various prices during a given time period, ceteris paribus (a Latin phrase meaning “all other things being equal”).
+Let’s consider what the demand for pizza might look like. Suppose that at a price of $30 per pizza, no one will purchase a pizza, but
+if the price of a pizza is $25, 10 people might buy a pizza. If the price falls even lower, more pizzas will be purchased, as shown in
+Table 3.1.
+Table 3.1: Demand Schedule for Pizza
+Price ($) Quantity
+30 0
+25 10
+20 20
+15 30
+10 40",1,"Cùng chunk với B: Định nghĩa demand và ví dụ trọn ý, nhưng Table 3.1 bị cắt ở giới hạn 800 ký tự (thiếu dòng '5 50')."
+9,93,537,A,pof-ch1-3:p093:fixed500-50:c01,,"have caused this change in demand?
+Solution
+This is an increase in demand. At every price, consumer s now want to purchase more sweatshirts than they did b efore. This is
+shown in the graph as a movement of the demand curve outward to the right. Both the equilibrium price and the equilibrium
+quantity will rise because of this increase in demand . The equilibrium price will now be $40, and the equi librium quantity of
+sweatshirts will be 30. Note that there is not an increa se in supply; the supp",1,Mở đầu bằng mảnh câu hỏi ('have caused this change in demand?') và cuối cắt ('the supp'); lời giải ở giữa còn hiểu được.
+9,93,537,B,pof-ch1-3:p093:para800:c01,,"Solution
+This is an increase in demand. At every price, consumer s now want to purchase more sweatshirts than they did b efore. This is
+shown in the graph as a movement of the demand curve outward to the right. Both the equilibrium price and the equilibrium
+quantity will rise because of this increase in demand . The equilibrium price will now be $40, and the equi librium quantity of
+sweatshirts will be 30. Note that there is not an increa se in supply; the supply curve does not move. There is simply an increase in
+quantity supplied (see Figure 3.9).
+Think It Through: Graphing Demand",2,"Trọn lời giải 'Solution'; chỉ dư một nhãn khung 'Think It Through' ở cuối, không ảnh hưởng."
+9,93,537,C,pof-ch1-3:p093:para800:c01,same chunk as B (C only adds a filter),"Solution
+This is an increase in demand. At every price, consumer s now want to purchase more sweatshirts than they did b efore. This is
+shown in the graph as a movement of the demand curve outward to the right. Both the equilibrium price and the equilibrium
+quantity will rise because of this increase in demand . The equilibrium price will now be $40, and the equi librium quantity of
+sweatshirts will be 30. Note that there is not an increa se in supply; the supply curve does not move. There is simply an increase in
+quantity supplied (see Figure 3.9).
+Think It Through: Graphing Demand",2,"Cùng chunk với B: Trọn lời giải 'Solution'; chỉ dư một nhãn khung 'Think It Through' ở cuối, không ảnh hưởng."
+10,100,593,A,pof-ch1-3:p100:fixed500-50:c01,,"as experienced
+negative growth.
+The percentage change in real GDP for each quarter is shown in Figure 3.13. For any quarter in which real GDP i s growing, the
+percentage change will be positive. When the growth rate of real GDP is negative, the economy is shrinking.
+Figure 3.13: Quarterly Percentage Change in US Real GDP with Shading Representing Recessions
+Figure 3.14 is an illustration of the growth of GDP over time. There has been a definitive long-term upward trend in GDP, but it has
+not bee",1,Mở đầu bằng mảnh câu ('as experienced negative growth.') và cuối cắt ('not bee'); phần về real GDP ở giữa còn hiểu được.
+10,100,593,B,pof-ch1-3:p100:para800:c00,,"3.4: Business Cycles and Economic Activity
+By the end of this section, you will be able to:
+Outline the stages of the business cycle.
+Identify recessionary and expansionary periods.
+What Is the Business Cycle?
+Although the US economy has grown significantly over ti me, as seen in Figure 3.12, the growth has not occurred at a constant,
+consistent pace. At times, the economy has experienced faster-than-average growth, and occasionally the economy has experienced
+negative growth.
+The percentage change in real GDP for each quarter is shown in Figure 3.13. For any quarter in which real GDP i s growing, the
+percentage change will be positive. When the growth rate of real GDP is negative, the economy is shrinking.",2,"Có heading section 3.4 và đoạn mở đầu, trọn ý."
+10,100,593,C,pof-ch1-3:p100:para800:c00,same chunk as B (C only adds a filter),"3.4: Business Cycles and Economic Activity
+By the end of this section, you will be able to:
+Outline the stages of the business cycle.
+Identify recessionary and expansionary periods.
+What Is the Business Cycle?
+Although the US economy has grown significantly over ti me, as seen in Figure 3.12, the growth has not occurred at a constant,
+consistent pace. At times, the economy has experienced faster-than-average growth, and occasionally the economy has experienced
+negative growth.
+The percentage change in real GDP for each quarter is shown in Figure 3.13. For any quarter in which real GDP i s growing, the
+percentage change will be positive. When the growth rate of real GDP is negative, the economy is shrinking.",2,"Cùng chunk với B: Có heading section 3.4 và đoạn mở đầu, trọn ý."

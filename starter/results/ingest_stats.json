@@ -1,0 +1,101 @@
+{
+  "run_at": "2026-11-13T10:46:51+00:00",
+  "document_id": "pof-ch1-3",
+  "pages_ingested": 68,
+  "page_load_seconds": 4.73,
+  "embedding": {
+    "provider": "local sentence-transformers",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "library_version": "6.3.0",
+    "dimensions": 384,
+    "max_seq_length_tokens": 256,
+    "normalized": true,
+    "query_document_handling": "identical encoding, no prefixes",
+    "device": "cpu",
+    "model_load_seconds": 0.0
+  },
+  "vector_store": {
+    "backend": "PostgreSQL + pgvector",
+    "table": "chunks",
+    "metric": "cosine distance (<=>)",
+    "search": "exact (no ANN index)"
+  },
+  "python": "3.11.9",
+  "cost_usd": 0.0,
+  "indexes": {
+    "A": {
+      "params": {
+        "index": "A",
+        "chunker": "fixed",
+        "size": 500,
+        "overlap": 50,
+        "use_filter": false
+      },
+      "used_by_strategies": [
+        "A"
+      ],
+      "chunk_count": 458,
+      "chars": {
+        "min": 58,
+        "mean": 466.7,
+        "median": 500.0,
+        "max": 500,
+        "total": 213742
+      },
+      "tokens": {
+        "min": 13,
+        "mean": 96.1,
+        "median": 100.0,
+        "max": 179,
+        "total": 44036
+      },
+      "chunks_over_max_seq_length": 0,
+      "embedded_this_run": 0,
+      "written": 0,
+      "unchanged": 458,
+      "deleted": 0,
+      "seconds": {
+        "chunk": 0.01,
+        "embed": 0.0,
+        "db": 0.04
+      }
+    },
+    "B": {
+      "params": {
+        "index": "B",
+        "chunker": "paragraph",
+        "max_size": 800,
+        "use_filter": false
+      },
+      "used_by_strategies": [
+        "B",
+        "C"
+      ],
+      "chunk_count": 341,
+      "chars": {
+        "min": 42,
+        "mean": 568.0,
+        "median": 615,
+        "max": 800,
+        "total": 193696
+      },
+      "tokens": {
+        "min": 11,
+        "mean": 115.4,
+        "median": 121,
+        "max": 236,
+        "total": 39343
+      },
+      "chunks_over_max_seq_length": 0,
+      "embedded_this_run": 0,
+      "written": 0,
+      "unchanged": 341,
+      "deleted": 0,
+      "seconds": {
+        "chunk": 0.0,
+        "embed": 0.0,
+        "db": 0.04
+      }
+    }
+  }
+}

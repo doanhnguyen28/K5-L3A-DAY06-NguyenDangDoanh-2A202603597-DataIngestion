@@ -1,0 +1,12 @@
+Coherence (mean /2, n positions):
+  A: 0.80 (n=10/10)
+  B: 1.70 (n=10/10)
+  C: 1.70 (n=10/10)
+Metadata complete & correct (records):
+  A: 15/15 labeled (15 records)
+  B: 15/15 labeled (15 records)
+  C: 15/15 labeled (15 records)
+Grounding (count of 0/1/2, mean /2):
+  A: 0=1 1=1 2=3 mean=1.40 (n=5)
+  B: 0=0 1=0 2=5 mean=2.00 (n=5)
+  C: 0=0 1=0 2=5 mean=2.00 (n=5)

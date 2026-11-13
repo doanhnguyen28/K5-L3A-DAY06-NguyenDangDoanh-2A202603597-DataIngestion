@@ -1,0 +1,4 @@
+﻿strategy,split,n,hit_at_1,hit_at_1_pct,evidence_hit_at_3,evidence_hit_at_3_pct,gold_page_at_3,page_only_misses,filter_questions,filter_compliant,missed_ids
+A,test,5,2/5,40.0,2/5,40.0,5/5,3,1,0/1,q16 q18 q20
+B,test,5,4/5,80.0,5/5,100.0,5/5,0,1,0/1,
+C,test,5,4/5,80.0,5/5,100.0,5/5,0,1,1/1,
